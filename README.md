@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @oldageek
+- 👋 Hola, soy Oldahir Gomez @oldageek
 Soy desarrollador Jr en el mundo web y movil
 
 Trabajo con pequeños proyectos donde integro Frameworks, APIS, librerias 
