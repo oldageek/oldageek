@@ -1,5 +1,5 @@
 - 👋 Hola, soy Oldahir Gomez @oldageek
-Soy desarrollador Jr en el mundo web y movil
+Soy desarrollador Jr en el mundo back-end, web y movil
 
 Trabajo con pequeños proyectos donde integro Frameworks, APIS, librerias 
 y tecnologias que ayuden al desarrollo de la aplicacion
